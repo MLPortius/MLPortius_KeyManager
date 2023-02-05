@@ -1,0 +1,15 @@
+userkeys/*
+!userkeys/.gitkeep
+
+filekeys/*
+!filekeys/.gitkeep
+
+decode/input/*
+!decode/input/.gitkeep
+decode/output/*
+!decode/output/.gitkeep
+
+encode/input/*
+!encode/input/.gitkeep
+encode/output/*
+!encode/output/.gitkeep
